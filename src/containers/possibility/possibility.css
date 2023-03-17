@@ -69,7 +69,7 @@
     }
 
     .gpt3__possibility-image {
-        margin: 0 3rem 3rem 3rem;
+        margin-bottom: 1rem;
     }
 
     .gpt3__possibility-content {
@@ -80,7 +80,7 @@
 
 @media screen and (max-width: 550px) {
     .gpt3__possibility-image {
-        margin: 0 1rem 1rem 1rem;
+        margin-bottom: 0rem;
     }
     .gpt3__possibility-content h1 {
         font-size: 28px;
